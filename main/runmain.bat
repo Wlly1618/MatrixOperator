@@ -1,0 +1,1 @@
+gcc main.c -o matrixOperator.exe -L. -l:../libs/libMatrix.a -l:../libs/libFileReader.a -l:../libs/libOperations.a -l:../libs/libDataCollector.a
